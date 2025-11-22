@@ -3,7 +3,7 @@
 This project is developed as part of learning **Rust programming** and applying it to **mathematical problem solving**.  
 It demonstrates how a simple command-line application can handle **user input**, perform **computations**, and display results in a structured way.
 
----
+
 
 ## 📘 Project Overview
 
@@ -28,7 +28,7 @@ The application presents a menu with two options:
      F_n = F_{n-1} + F_{n-2} \quad \text{for } n \geq 2
      \]
 
----
+
 
 ## 🎯 Learning Objectives
 
@@ -37,7 +37,7 @@ The application presents a menu with two options:
 - Building an interactive **command-line interface (CLI)**.  
 - Reinforcing problem-solving skills using **algorithms**.  
 
----
+
 
 ## 🚀 Running the Program
 
